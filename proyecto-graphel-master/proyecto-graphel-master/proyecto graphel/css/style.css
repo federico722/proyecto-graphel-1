@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+}
+header{
+    
+    background-color: rgb(66, 66, 66);
+    padding-top: 30px;
+    text-align: left;
+    
+}
+
+h1{
+    margin: 0px;
+    margin-left: 150px;
+    
+}
+
+
+.titulo {
+color: rgb(250, 254, 255);
+}
+
+.tituloDos {
+    color: rgb(11, 132, 231);
+}
+
+
+nav ul  {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 1380px;
+}
+
+ul li {
+    display: inline;
+    
+}
+
+ul li a {
+    text-decoration: none;
+    margin-right: 28px;
+    
+    
+}
+
+.rellenos {
+    background-color:rgb(15, 149, 226);
+    height: 10px;
+}
+
+
+/*
+img .cabecera {
+    margin: 0px;
+    width: 1800px;
+}
+*/
+
+
+.contenedor-imagenes {
+    background-image: url("../images/cabecera.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: aliceblue;
+    padding: 200px;
+
+}
+
+/*
+.superposicion-texto{
+    display: inline-block;
+    padding: 20px;
+}
+*/
+
+
+.segundo {
+color:white;
+margin-left: 150px;
+font-size: 28px;
+}
+
+.diseño-fondo{
+    background-color: rgb(66, 66, 66);
+    padding-top: 30px;
+    text-align: left;
+    margin: 0px;
+}
+
+
+.margen {
+    margin: 0px;
+    margin-left: 1100px;
+}
+
+.diseño-email {
+    color: aliceblue;
+}
+
+.diseño-email{
+    border: 3px solid rgb(255, 94, 0);
+    padding: 5px 10px;
+    color: white;
+    background-color: rgb(255, 94, 0);
+}
+
+input#correo {
+    height: 25px; 
+}
+
+
+article {
+    text-align: center;
+    padding: 15px;
+}
+
+article img {
+    width: 150px; /* Ajusta el tamaño de la imagen según tus necesidades */
+    display: inline-block;
+}
+
+article p {
+    text-align: center;
+    display: inline-block;
+    width: 150px; /* Ajusta el ancho del contenedor del texto según tus necesidades */
+}
+
+
+#textFooter {
+    text-align: center;
+    color: aliceblue;
+}
+
+
+footer{
+    border: 0px;
+    margin: 0px;
+    padding: 35px;
+    background-color: rgb(11, 132, 231);
+}
+
+
+
+a:link {
+    color:rgb(14, 108, 190);
+}
+
+a:visited {
+    color:rgb(253, 254, 255);
+}
+
+a:hover {
+    color:rgb(255, 94, 0);
+}
+
+a:active {
+    color: red;
+}
+
+p.segundo {
+    float: left;
+}
+
+article#margen-2.margen{
+    padding-bottom: 10px;
+    
+}
+
+header{
+    height: 130px;
+}
